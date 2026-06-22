@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item{
+    display: flex;
+    margin: 100px;
+    padding: 100px;
+}
+
+img{
+    width: 90% !important;
+    margin: auto;
+}
